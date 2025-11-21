@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Visagismo Pro - Consultoria de Imagem",
-  description: "App de visagismo e consultoria de imagem para barbearias. Receba sugestões personalizadas de estilos de cabelo, barba e vestimentas.",
+  title: "BarberPro - Gestão Completa para Barbearias",
+  description: "Sistema completo de gestão para barbearias: agendamento online, CRM, financeiro, estoque e visagismo para clientes. Transforme sua barbearia em um negócio moderno e eficiente.",
 };
 
 export default function RootLayout({
